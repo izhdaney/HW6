@@ -11,8 +11,8 @@ namespace HW6
             //Task3();
             //Task4();
             //Task5();
-            //Task6();
-            getResultTask7();
+            Task6();
+            //getResultTask7();
 
         }
 
